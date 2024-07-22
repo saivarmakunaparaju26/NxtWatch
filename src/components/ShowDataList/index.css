@@ -1,0 +1,33 @@
+@media (min-width: 768px) {
+  .con {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 30px;
+    padding: 0px;
+  }
+}
+@media (min-width: 576px) and (max-width: 768px) {
+  .con {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 30px;
+    padding: 0px;
+  }
+}
+@media (max-width: 565px) {
+  .con {
+    width: 100%;
+    margin: 0px;
+    margin-top: 20px;
+  }
+}
+.con {
+  text-decoration: none;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+}

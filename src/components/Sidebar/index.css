@@ -1,0 +1,13 @@
+.divv {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.fa {
+  margin-right: 10px;
+  height: 30px;
+  width: 30px;
+}
+.sa {
+  text-decoration: none;
+}
